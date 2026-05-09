@@ -8,12 +8,11 @@ Built as a submission for the Humanoid internship challenge.
 
 ## Demo
 
-**Input:** 50-second handheld phone video of a room
+**Input video:** [View on Google Drive](https://drive.google.com/file/d/14mE2FYkp679d-xNwr-J1tQJ_Qy8PqTdm/view?usp=sharing) — 50-second handheld phone recording, no depth sensor
 
 **Output:** Dense coloured 3D point cloud with floating semantic labels
 
-![reconstruction](assets/reconstruction.png)
-![semantic](assets/semantic.png)
+![semantic reconstruction](assets/semantic.png)
 
 ---
 
