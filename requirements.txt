@@ -1,0 +1,16 @@
+torch>=2.0.0
+torchvision
+numpy
+opencv-python
+trimesh
+ultralytics
+viser
+Pillow
+safetensors
+einops
+matplotlib
+pyyaml
+requests
+huggingface-hub
+scipy
+tqdm
