@@ -2,8 +2,6 @@
 
 A pipeline that takes a short video recorded on any camera and produces a dense, coloured 3D point cloud with semantic object labels placed accurately in world space.
 
-Built as a submission for the Humanoid internship challenge.
-
 ---
 
 ## Demo
